@@ -19,7 +19,7 @@ This project utilizes the following Python libraries:
 **Installation:**
 Make sure you have the required libraries installed by running the following commands in your terminal or command prompt:
 
-```python
+```bash
 pip install pandas
 pip install numpy
 pip install matplotlib
