@@ -34,7 +34,7 @@ This project utilizes the following Python libraries:
 4) Seaborn: A statistical data visualization library based on Matplotlib.
 5) Scikit-learn (sklearn): A machine learning library for classical machine learning algorithms.
 
-##**Library Installation:**
+##**Libraries Installation:**
 Make sure you have the required libraries installed by running the following commands in your terminal or command prompt:
 
 ```bash
