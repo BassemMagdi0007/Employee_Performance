@@ -1,4 +1,4 @@
-# Employee_Performance 3.4
+# Employee_Performance 2.4
 **File Path Adjustment:**
 Before running the code, please ensure to modify the file path in the script to match the location of the CSV file on your local machine. Locate the following line in the code:
 
